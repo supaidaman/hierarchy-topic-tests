@@ -1,0 +1,87 @@
+.
+├─■──políticos_direitos_rádio_televisão_individuais ── Topic: 31
+└─federal_lei_união_municípios_estados
+  ├─federal_lei_união_municípios_estados
+  │ ├─■──transporte_navegação_marítima_fluviais_aérea ── Topic: 15
+  │ └─federal_lei_municípios_união_estados
+  │   ├─federal_lei_municípios_união_estados
+  │   │ ├─■──agrária_reforma_proprietário_terras_imóveis ── Topic: 25
+  │   │ └─federal_lei_municípios_estados_distrito
+  │   │   ├─■──derivados_petróleo_lavra_minerais_terras ── Topic: 11
+  │   │   └─federal_lei_municípios_distrito_estados
+  │   │     ├─federal_lei_municípios_distrito_estados
+  │   │     │ ├─■──cultura_culturais_tecnologia_apoiará_pesquisa ── Topic: 6
+  │   │     │ └─federal_lei_municípios_distrito_estados
+  │   │     │   ├─■──crédito_câmbio_emissão_operações_poupança ── Topic: 30
+  │   │     │   └─federal_lei_municípios_distrito_estados
+  │   │     │     ├─■──deficiência_integração_portadoras_portador_atendimento ── Topic: 28
+  │   │     │     └─federal_lei_municípios_distrito_estados
+  │   │     │       ├─federal_lei_municípios_estados_distrito
+  │   │     │       │ ├─federal_lei_municípios_estados_distrito
+  │   │     │       │ │ ├─■──diretrizes_orçamentárias_plurianual_anual_plano ── Topic: 8
+  │   │     │       │ │ └─federal_municípios_lei_estados_distrito
+  │   │     │       │ │   ├─federal_municípios_lei_estados_distrito
+  │   │     │       │ │   │ ├─federal_municípios_estados_distrito_lei
+  │   │     │       │ │   │ │ ├─federal_municípios_estados_distrito_república
+  │   │     │       │ │   │ │ │ ├─■──compete_privativamente_senado_facultado_federal ── Topic: 41
+  │   │     │       │ │   │ │ │ └─federal_municípios_estados_distrito_lei
+  │   │     │       │ │   │ │ │   ├─federal_municípios_estados_distrito_lei
+  │   │     │       │ │   │ │ │   │ ├─municípios_estados_distrito_união_federal
+  │   │     │       │ │   │ │ │   │ │ ├─municípios_estados_distrito_união_federal
+  │   │     │       │ │   │ │ │   │ │ │ ├─municípios_estados_distrito_união_federal
+  │   │     │       │ │   │ │ │   │ │ │ │ ├─■──000_habitantes_mil_milhões_vereadores ── Topic: 18
+  │   │     │       │ │   │ │ │   │ │ │ │ └─estados_distrito_união_municípios_federal
+  │   │     │       │ │   │ │ │   │ │ │ │   ├─estados_distrito_municípios_federal_união
+  │   │     │       │ │   │ │ │   │ │ │ │   │ ├─estados_distrito_municípios_federal_união
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │ ├─■──cento_vinte_cinco_corresponderá_deputados ── Topic: 33
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │ └─estados_distrito_municípios_federal_união
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   ├─estados_distrito_municípios_federal_união
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │ ├─■──lei_nesta_casos_previstos_constituição ── Topic: 7
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │ └─estados_distrito_municípios_federal_união
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │   ├─disposto_deste_constituição_lei_desta
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │   │ ├─■──deste_aplica_disposto_desta_constituição ── Topic: 1
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │   │ └─■──organização_ministério_administrativa_seguintes_lei ── Topic: 0
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │   └─distrito_estados_municípios_federal_união
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │     ├─■──distrito_estados_municípios_federal_união ── Topic: 2
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   │     └─■──direta_indireta_administração_fundações_encargos ── Topic: 17
+  │   │     │       │ │   │ │ │   │ │ │ │   │ │   └─■──empresa_mista_economia_empresas_capital ── Topic: 19
+  │   │     │       │ │   │ │ │   │ │ │ │   │ └─■──cargo_cargos_emprego_função_remuneração ── Topic: 3
+  │   │     │       │ │   │ │ │   │ │ │ │   └─■──reclamações_contra_receber_auxiliares_interessado ── Topic: 21
+  │   │     │       │ │   │ │ │   │ │ │ └─■──carreira_nomear_cargos_prover_magistrados ── Topic: 38
+  │   │     │       │ │   │ │ │   │ │ └─■──sobre_disporá_legislar_impostos_compete ── Topic: 14
+  │   │     │       │ │   │ │ │   │ └─presidente_tribunal_república_tribunais_federal
+  │   │     │       │ │   │ │ │   │   ├─■──sítio_estado_defesa_intervenção_decretar ── Topic: 32
+  │   │     │       │ │   │ │ │   │   └─tribunal_presidente_república_tribunais_dias
+  │   │     │       │ │   │ │ │   │     ├─presidente_dias_república_congresso_maioria
+  │   │     │       │ │   │ │ │   │     │ ├─dias_prazo_congresso_presidente_quatro
+  │   │     │       │ │   │ │ │   │     │ │ ├─■──imediato_urgência_congresso_pauta_extraordinariamente ── Topic: 43
+  │   │     │       │ │   │ │ │   │     │ │ └─■──dias_prazo_quatro_congresso_término ── Topic: 12
+  │   │     │       │ │   │ │ │   │     │ └─maioria_presidente_república_absoluta_senado
+  │   │     │       │ │   │ │ │   │     │   ├─■──maioria_absoluta_república_membros_senado ── Topic: 4
+  │   │     │       │ │   │ │ │   │     │   └─■──presidente_república_câmara_senado_vice ── Topic: 16
+  │   │     │       │ │   │ │ │   │     └─tribunal_tribunais_juízes_habeas_justiça
+  │   │     │       │ │   │ │ │   │       ├─juízes_tribunal_tribunais_justiça_dentre
+  │   │     │       │ │   │ │ │   │       │ ├─tribunal_dentre_indicados_indicado_juízes
+  │   │     │       │ │   │ │ │   │       │ │ ├─■──indicados_dentre_dois_saber_notável ── Topic: 39
+  │   │     │       │ │   │ │ │   │       │ │ └─■──indicado_tribunal_dentre_juízes_superior ── Topic: 22
+  │   │     │       │ │   │ │ │   │       │ └─tribunais_regionais_juízes_justiça_trabalho
+  │   │     │       │ │   │ │ │   │       │   ├─■──tribunais_eleitorais_regionais_trabalho_justiça ── Topic: 13
+  │   │     │       │ │   │ │ │   │       │   └─■──tribunais_regionais_juízes_justiça_conciliação ── Topic: 29
+  │   │     │       │ │   │ │ │   │       └─habeas_corpus_data_segurança_mandado
+  │   │     │       │ │   │ │ │   │         ├─■──julgar_recurso_instância_decididas_única ── Topic: 35
+  │   │     │       │ │   │ │ │   │         └─■──habeas_corpus_data_segurança_mandado ── Topic: 24
+  │   │     │       │ │   │ │ │   └─■──anos_cinco_trinta_idade_sessenta ── Topic: 10
+  │   │     │       │ │   │ │ └─proventos_sobre_natureza_salários_benefícios
+  │   │     │       │ │   │ │   ├─benefícios_salários_proventos_valor_benefício
+  │   │     │       │ │   │ │   │ ├─■──contribuição_benefício_valor_remuneração_mês ── Topic: 27
+  │   │     │       │ │   │ │   │ └─■──natureza_benefícios_ativos_recursos_pensões ── Topic: 40
+  │   │     │       │ │   │ │   └─■──sobre_renda_bens_qualquer_incidente ── Topic: 36
+  │   │     │       │ │   │ └─■──obrigações_débitos_precatórios_valor_pagamento ── Topic: 23
+  │   │     │       │ │   └─■──ensino_educação_fundamental_escolar_básica ── Topic: 5
+  │   │     │       │ └─■──prisão_ninguém_julgado_sentença_transitada ── Topic: 9
+  │   │     │       └─militares_polícias_polícia_bombeiros_corpos
+  │   │     │         ├─■──polícia_ferroviária_rodoviária_anistia_soberania ── Topic: 20
+  │   │     │         └─■──militares_bombeiros_polícias_corpos_polícia ── Topic: 34
+  │   │     └─■──dano_danos_indenização_culpa_moral ── Topic: 42
+  │   └─■──ambiente_artístico_meio_histórico_cultural ── Topic: 26
+  └─■──bens_fortunas_resoluções_legislativos_reservada ── Topic: 37
